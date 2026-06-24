@@ -1,0 +1,10 @@
+Command line:
+   DuplexTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55793
+
+Wed Jun 24 13:07:09 2026
+
+
+ Elaboration Time: 0.12 sec
