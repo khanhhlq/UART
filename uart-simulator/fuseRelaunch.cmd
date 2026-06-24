@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/ise/D_DRIVE/UART/uart-simulator/DuplexTest_isim_beh.exe" -prj "/home/ise/D_DRIVE/UART/uart-simulator/DuplexTest_beh.prj" "work.DuplexTest" "work.glbl" 
