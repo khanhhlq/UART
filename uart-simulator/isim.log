@@ -130,3 +130,4 @@ Stopped at time : 2450 us :  in File "/home/ise/D_DRIVE/UART/tb/DuplexTest.v" Li
             15311650   The Outputs:  Data Out = ff  Error Flag = 000  Tx Active Flag = 1  Tx Done Flag = 0  Rx Active Flag = 0  Rx Done Flag = 0  The Inputs:   Reset = 1  Send = 1  Data In = 5c  Parity Type = 10  Baud Rate = 11 
             15311830   The Outputs:  Data Out = ff  Error Flag = 000  Tx Active Flag = 1  Tx Done Flag = 0  Rx Active Flag = 1  Rx Done Flag = 0  The Inputs:   Reset = 1  Send = 1  Data In = 5c  Parity Type = 10  Baud Rate = 11 
 Stopped at time : 15428390 ns : File "/home/ise/D_DRIVE/UART/tb/DuplexTest.v" Line 66
+# exit 0
