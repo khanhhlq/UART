@@ -17,8 +17,8 @@ Analyzing Verilog file "/home/ise/D_DRIVE/UART/uart-simulator/../tb/DuplexTest.v
 Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
 Starting static elaboration
 Completed static elaboration
-Fuse Memory Usage: 95080 KB
-Fuse CPU Usage: 1250 ms
+Fuse Memory Usage: 95076 KB
+Fuse CPU Usage: 1450 ms
 Compiling module BaudGenT
 Compiling module Parity
 Compiling module PISO
@@ -34,6 +34,6 @@ Compiling module glbl
 Time Resolution for simulation is 1ps.
 Compiled 12 Verilog Units
 Built simulation executable /home/ise/D_DRIVE/UART/uart-simulator/DuplexTest_isim_beh.exe
-Fuse Memory Usage: 98188 KB
-Fuse CPU Usage: 1360 ms
-GCC CPU Usage: 910 ms
+Fuse Memory Usage: 98184 KB
+Fuse CPU Usage: 1590 ms
+GCC CPU Usage: 1210 ms
